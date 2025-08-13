@@ -94,7 +94,7 @@ bool internetOK = false;
 
 // Hostname & AP
 const char* hostName = "espmonitor";
-const char* apSSID = "ESP8266_Config";
+const char* apSSID = "Internet_Monitor";
 const char* apPassword = "12345678";  // Min 8 chars for WPA2
 
 // Timing
